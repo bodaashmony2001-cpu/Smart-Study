@@ -1,0 +1,8 @@
+{
+  "name": "Smart Study",
+  "description": "Smart Lesson Maps - Transforming long materials into structured one-page visual summaries with AI-powered interactive quizzes and spaced repetition.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
